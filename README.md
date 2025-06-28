@@ -59,7 +59,6 @@ EduMentor AI democratizes personalized education through:
 ### Installation
 
 1. **Clone the repository**
-```bash
 git clone https://github.com/YOUR_USERNAME/edumentor-ai.git
 cd edumentor-ai
 
